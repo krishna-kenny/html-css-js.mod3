@@ -30,6 +30,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border: #555 5px solid;
 }
 
 .section-para {
